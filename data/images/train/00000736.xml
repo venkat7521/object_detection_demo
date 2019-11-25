@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00000736.jpg</filename>
+	<path>C:\Users\Venkat1257\Desktop\object_detection_demo\data\images\train\00000736.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1004</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mosque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>112</ymin>
+			<xmax>739</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

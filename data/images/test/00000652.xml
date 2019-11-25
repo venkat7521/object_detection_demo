@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>00000652.jpg</filename>
+	<path>C:\Users\Venkat1257\Desktop\object_detection_demo\data\images\test\00000652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mosque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>50</ymin>
+			<xmax>635</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

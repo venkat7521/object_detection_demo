@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>00000062.jpg</filename>
+	<path>C:\Users\Venkat1257\Desktop\object_detection_demo\data\images\test\00000062.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hindu Temple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>220</ymin>
+			<xmax>461</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

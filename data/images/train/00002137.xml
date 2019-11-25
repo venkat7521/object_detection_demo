@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00002137.jpg</filename>
+	<path>C:\Users\Venkat1257\Desktop\object_detection_demo\data\images\train\00002137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gurdwara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>69</ymin>
+			<xmax>337</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

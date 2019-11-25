@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00001189.jpg</filename>
+	<path>C:\Users\Venkat1257\Desktop\object_detection_demo\data\images\train\00001189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4050</width>
+		<height>2697</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Church</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1456</xmin>
+			<ymin>39</ymin>
+			<xmax>3794</xmax>
+			<ymax>2544</ymax>
+		</bndbox>
+	</object>
+</annotation>
